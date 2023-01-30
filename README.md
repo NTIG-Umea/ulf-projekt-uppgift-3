@@ -32,8 +32,8 @@ Ni ska nu skapa en fungerande navigation och tillhörande sidor (om / kontakt)
         
 ## Parsons
 
-????
-
+Dina instruktionsfiler finns i mappen parsons/.
+Du ska utifrån dessa filera skapa en sida med centrerad layout. Du behöver redigera båda filerna (index.html och style.css) och ta bort överflödig/onödig/felaktig html/css.
 
 ## Flödeschema
 
