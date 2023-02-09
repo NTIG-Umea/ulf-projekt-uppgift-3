@@ -1,4 +1,4 @@
-# ulf-projekt-uppgift-2
+# ulf-projekt-uppgift-3
 
 Skapa en webbsida med **centrerad layout**, sidan bör vara responsiv.
 
@@ -17,6 +17,8 @@ Skapa en webbsida med **centrerad layout**, sidan bör vara responsiv.
     * Paragrafer med text
 
 # Instruktioner
+
+**Eleverna får filerna från Uppgift 2, så att de kan bygga vidare från det.**
 
 ## Parprogrammering
 
